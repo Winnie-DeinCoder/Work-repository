@@ -1,4 +1,4 @@
-@echo off
+echo Hello World! > myfile.txtecho Hello World! > myfile.txt@echo off
 mkdir "myfolder"
 cd myfolder
 dir
